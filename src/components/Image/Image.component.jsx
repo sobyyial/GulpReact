@@ -13,7 +13,7 @@ class Image extends React.Component<IProptypes, {}> {
     render() {
         const props = this.props;
       return (
-<div>
+<React.Fragment>
     <img
         src={props.src}
         width={props.size?props.size: "70px"}
@@ -21,7 +21,7 @@ class Image extends React.Component<IProptypes, {}> {
         alt={props.alt|"altLabel"}
         style={props.style}
     />
-</div>
+</React.Fragment>
 
 
       );

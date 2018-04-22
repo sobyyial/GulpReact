@@ -6,11 +6,11 @@ import Img2 from '../../img/img2.png';
 import Img3 from '../../img/img3.jpg';
 //import Img4 from '../../img/img4.png';
 import Img5 from '../../img/img5.png';
-import Img6 from '../../img/img6.png';
-import Img7 from '../../img/img7.jpg';
+// import Img6 from '../../img/img6.png';
+// import Img7 from '../../img/img7.jpg';
 //import Img8 from '../../img/img8.png';
 //import Img9 from '../../img/img9.png';
-import Img10 from '../../img/img10.jpg';
+// import Img10 from '../../img/img10.jpg';
 
 const Data=[{
 src: Img1,
